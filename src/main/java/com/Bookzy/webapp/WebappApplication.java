@@ -1,4 +1,4 @@
-package com.bookzy.webapp;
+package com.Bookzy.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
